@@ -34,8 +34,8 @@
 
 ##### 1. Studio Tyrsa
 
-![Image alt text](/img/Referente1)
-![Image alt text](/img/Referente1.1)
+![Referente 1](./img/Referente1.png)
+![Referente 1.1](./img/Referente1.1.png)
 
 ##### Es un portafolio, donde hay  una galeria de imágenes que muestra cada proyecto, adememás de estar separada por secciones, donde los proyectos, la descripción, cpntacto, etc. están por separado.
 
