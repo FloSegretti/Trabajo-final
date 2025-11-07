@@ -6,15 +6,29 @@
 ### ¿Para quiénes es esta propuesta?
 
 #### Usuarios menos probables:
+
+##### Usuario 1
 | Cuadrante 1 |Cuadrante 2 |
 | ---------------- | ---------------- |
-| Es intuitiva y dinámica, llama facilmente la atención del usuario, me gusta como están puestos los titulos    | Para mi gusto tiene demasiados efectos, a veces carga muy lento las fotos y el dado que existe dentro de la página a veces siento que estorba un poco    |
-| Cuadrante 3 |Cuadrante 3 |
+| ...    | ...    |
+| Cuadrante 3 |Cuadrante 4 |
+| ...    | ...    |
+
+##### Usuario 2
+| Cuadrante 1 |Cuadrante 2 |
 | ---------------- | ---------------- |
-| Es intuitiva y dinámica, llama facilmente la atención del usuario, me gusta como están puestos los titulos    | Para mi gusto tiene demasiados efectos, a veces carga muy lento las fotos y el dado que existe dentro de la página a veces siento que estorba un poco    |
+| ...    | ...    |
+| Cuadrante 3 |Cuadrante 4 |
+| ...    | ...    |
 
 #### Usuario probable:
-### ...
+
+##### Usuario 3
+| Cuadrante 1 |Cuadrante 2 |
+| ---------------- | ---------------- |
+| ...    | ...    |
+| Cuadrante 3 |Cuadrante 4 |
+| ...    | ...    |
 
 ### Antecedentes
 
