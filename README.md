@@ -6,7 +6,12 @@
 ### ¿Para quiénes es esta propuesta?
 
 #### Usuarios menos probables:
-### ...
+| Cuadrante 1 |Cuadrante 2 |
+| ---------------- | ---------------- |
+| Es intuitiva y dinámica, llama facilmente la atención del usuario, me gusta como están puestos los titulos    | Para mi gusto tiene demasiados efectos, a veces carga muy lento las fotos y el dado que existe dentro de la página a veces siento que estorba un poco    |
+| Cuadrante 3 |Cuadrante 3 |
+| ---------------- | ---------------- |
+| Es intuitiva y dinámica, llama facilmente la atención del usuario, me gusta como están puestos los titulos    | Para mi gusto tiene demasiados efectos, a veces carga muy lento las fotos y el dado que existe dentro de la página a veces siento que estorba un poco    |
 
 #### Usuario probable:
 ### ...
