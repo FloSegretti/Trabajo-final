@@ -121,7 +121,9 @@
 ## Referentes
 
 ### Moodboard
-![Moodboard]()
+
+##### Contiene elementos que me gustaron o me gustaría incluir, colores, o cosas que me llamaron la atención de algunas paginas web que visité.
+![Moodboard](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Moodboard.png)
 
 
 
