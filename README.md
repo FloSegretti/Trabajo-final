@@ -53,8 +53,8 @@
 
 ##### 2. Bub-bio-studios
 
-![Referente 2]()
-![Referente 2.2]()
+![Referente 2](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente2.png)
+![Referente 2.2](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente2.2.png)
 
 ##### Es un portafolio que básicamente es como una grán galeria de videos, simple pero llamativa
 #### Fuente
@@ -66,8 +66,8 @@
 
 ##### 3. Re-foam
 
-![Referente 3]()
-![Referente 3.3]()
+![Referente 3](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente3.png)
+![Referente 3.3](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente3.3.png)
 
 ##### Es un portafolio en donde los proyectos tiene cada uno una sección pues se diferencias a meidida el color del centro cambia
 #### Fuente
@@ -79,8 +79,8 @@
 
 ##### 4. Anna Mills
 
-![Referente 4]()
-![Referente 4.4]()
+![Referente 4](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente4.png)
+![Referente 4.4](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente4.4.png)
 
 ##### Es un oprtafolio tipo galeria de fotos con varios efectos llamativos
 #### Fuente
@@ -93,8 +93,8 @@
 
 ##### 5. Atelier Matin
 
-![Referente 5]()
-![Referente 5.5]()
+![Referente 5](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente5.png)
+![Referente 5.5](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente5.5.png)
 
 ##### Es un portafolio simple pero funcional, donde las fotos tienen efectos para hacerlo más dinámico
 #### Fuente
@@ -107,8 +107,8 @@
 
 ##### 6. Ludovic Roth Studio
 
-![Referente 6]()
-![Referente 6.6]()
+![Referente 6](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente6.png)
+![Referente 6.6](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente6.6.png)
 
 ##### Es un portafolio mucho más sofisticado, pero muy funcional
 #### Fuente
@@ -118,7 +118,12 @@
 | ---------------- | ---------------- |
 | Me gusta mucho como te recibe la página y que si uno se posa sobre un titulo te muestra una imagen del proyecto, además me gusta mucho tambipen como muestra los proyectos, dando especificaciones útiles y varias fotos tipo galeria     | las animaciones están bien pero van un poco lentas a mi gusto y siento que retarda la navegación y quizá aprobvechar más el espacio del texto    |
 
-### Referentes
+## Referentes
+
+### Moodboard
+![Moodboard]()
+
+
 
 
 
