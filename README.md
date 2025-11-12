@@ -51,57 +51,72 @@
 | Es intuitiva y dinámica, llama facilmente la atención del usuario, me gusta como están puestos los titulos    | Para mi gusto tiene demasiados efectos, a veces carga muy lento las fotos y el dado que existe dentro de la página a veces siento que estorba un poco    |
 
 
-##### 2...
+##### 2. Bub-bio-studios
 
-##### Es...
+![Referente 2]()
+![Referente 2.2]()
+
+##### Es un portafolio que básicamente es como una grán galeria de videos, simple pero llamativa
 #### Fuente
-<.../>
+<https://sub-bio-studios.com.au/>
 
 | Aspectos positivos | Aspectos negativos |
 | ---------------- | ---------------- |
-| Es...     | Para...    |
+| Me gusta que es directo y llamativo, tiene algunos efectos que me gustan y podrían replicarse     | Le falta contexto a los proyectos, el "menú" apenas se ve arriba, al haber tantas cosas pasando igual te marea un poco"    |
 
-##### 3...
+##### 3. Re-foam
 
-##### Es...
+![Referente 3]()
+![Referente 3.3]()
+
+##### Es un portafolio en donde los proyectos tiene cada uno una sección pues se diferencias a meidida el color del centro cambia
 #### Fuente
-<.../>
+<https://re-foam.ru/>
 
 | Aspectos positivos | Aspectos negativos |
 | ---------------- | ---------------- |
-| Es...     | Para...    |
+| Estéticamente me gusta mucho, me gusta el efecto del medio que cambia a medida que bajas y eso genera una separación entre proyectos, además apretando los titulos te lleva a otro apartado    | A pesar de que me gusta el efecto del centro, personalmente no lo pondría ahí porque siento que entorpece un poco la especiencia, lo cambiaría de lugar    |
 
-##### 4...
+##### 4. Anna Mills
 
-##### Es...
+![Referente 4]()
+![Referente 4.4]()
+
+##### Es un oprtafolio tipo galeria de fotos con varios efectos llamativos
 #### Fuente
-<.../>
+<https://annamills.xyz/>
 
 | Aspectos positivos | Aspectos negativos |
 | ---------------- | ---------------- |
-| Es...     | Para...    |
+| Me gusta mucho el collage que hace y la galeria de fotos que utiliza para poner los trabajos     | Me gustaría que apretando lsa imagenes haya algún tipo de enunciado, minimo para saver los nombres de los proyectos o algo así    |
 
 
-##### 5...
+##### 5. Atelier Matin
 
-##### Es...
+![Referente 5]()
+![Referente 5.5]()
+
+##### Es un portafolio simple pero funcional, donde las fotos tienen efectos para hacerlo más dinámico
 #### Fuente
-<.../>
+<https://www.ateliermatin.com/>
 
 | Aspectos positivos | Aspectos negativos |
 | ---------------- | ---------------- |
-| Es...     | Para...    |
+| Me gusta lo simple que es porque cumple su funcion y me gusta que puedes apretar las imagenes y te llevan a otra pagina con más info y más fotos tipo galería además de la sección de proyectos, me gusta mucho la disposición     | No me gusta mucho como estan puestos los textos   |
 
 
-##### 6...
+##### 6. Ludovic Roth Studio
 
-##### Es...
+![Referente 6]()
+![Referente 6.6]()
+
+##### Es un portafolio mucho más sofisticado, pero muy funcional
 #### Fuente
-<.../>
+<https://ludovicroth.com/>
 
 | Aspectos positivos | Aspectos negativos |
 | ---------------- | ---------------- |
-| Es...     | Para...    |
+| Me gusta mucho como te recibe la página y que si uno se posa sobre un titulo te muestra una imagen del proyecto, además me gusta mucho tambipen como muestra los proyectos, dando especificaciones útiles y varias fotos tipo galeria     | las animaciones están bien pero van un poco lentas a mi gusto y siento que retarda la navegación y quizá aprobvechar más el espacio del texto    |
 
 ### Referentes
 
