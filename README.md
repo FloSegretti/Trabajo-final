@@ -38,8 +38,8 @@
 
 ##### 1. Studio Tyrsa
 
-![Referente 1](./img/Referente1.png)
-![Referente 1.1](./img/Referente1.1.png)
+![Referente 1](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente1.1.png)
+![Referente 1.1](https://raw.githubusercontent.com/FloSegretti/Trabajo-final/refs/heads/main/img/Referente1.png)
 
 ##### Es un portafolio, donde hay  una galeria de imágenes que muestra cada proyecto, adememás de estar separada por secciones, donde los proyectos, la descripción, cpntacto, etc. están por separado.
 
